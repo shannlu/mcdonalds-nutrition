@@ -1,0 +1,212 @@
+,item,calories,calories_from_fat,total_fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugars,protein
+0,Bacon Cheeseburger,330,140,16,7.0,0.0,55,830,32,1.0,7,18.0
+1,Bacon Cheeseburger Deluxe,290,120,14,6.0,0.5,40,720,28,1.0,7,12.0
+2,Bacon King,1040,630,48,28.0,2.5,220,1900,48,1.0,10,57.0
+3,Bacon King Jr,730,351,39,9.0,0.0,90,1930,63,,16,32.0
+4,BBQ Bacon King,1100,675,75,29.0,3.0,220,1850,51,,13,57.0
+5,Cheeseburger,300,130,14,6.0,0.0,45,710,28,1.0,6,16.0
+6,Double Bacon Cheeseburger,520,280,31,14.0,1.0,105,1180,33,1.0,8,31.0
+7,Double Cheeseburger,450,230,26,12.0,1.0,95,960,29,1.0,6,26.0
+8,Double Hamburger,360,160,18,8.0,0.0,70,520,28,1.0,6,22.0
+9,Double Quarter Pound King,900,486,54,25.0,3.0,210,1740,50,2.0,11,56.0
+10,Extra Long Cheeseburger,580,300,33,13.0,1.5,85,1030,45,2.0,9,26.0
+11,Farmhouse King,1220,720,80,28.0,3.0,335,2050,62,,15,
+12,Hamburger,260,90,10,4.0,0.0,35,490,28,1.0,6,13.0
+13,Homestyle Cheeseburger,550,250,27,12.0,1.5,95,1140,48,2.0,10,30.0
+14,Mushroom & Swiss King,940,567,63,21.0,2.5,175,1380,45,,8,49.0
+15,Rodeo Burger,310,110,13,4.0,0.5,25,450,38,1.0,9,9.0
+16,Rodeo King,1250,738,82,31.0,3.5,230,2270,69,,14,60.0
+17,Steakhouse King,1100,666,74,24.0,1.0,180,1620,59,,13,50.0
+18,Bacon & Cheese Whopper,770,432,48,16.0,2.0,95,1360,47,2.0,9,29.0
+19,DOUBLE WHOPPER w/ Cheese,990,580,65,24.0,2.0,160,1480,53,3.0,11,52.0
+20,DOUBLE WHOPPER w/o Cheese,900,510,57,19.0,2.0,140,1050,51,3.0,11,47.0
+21,WHOPPER w/ Cheese,760,430,47,16.0,1.0,100,1410,53,3.0,11,33.0
+22,WHOPPER w/o Cheese,670,360,40,11.0,1.0,75,980,51,3.0,11,29.0
+23,WHOPPER JR. w/ Cheese,380,210,23,8.0,1.0,55,730,29,2.0,6,16.0
+24,WHOPPER JR. w/o Cheese,340,170,19,5.0,0.0,40,510,28,2.0,6,14.0
+25,1% Low Fat Chocolate Milk,160,25,3,2.0,0.0,15,150,26,0.0,25,8.0
+26,Barq's Root Beer,220,0,0,0.0,0.0,0,25,61,0.0,61,0.0
+27,Capri Sun® 100% Apple Juice,80,0,0,0.0,0.0,0,25,20,0.0,20,0.0
+28,Cherry Coke,200,0,0,0.0,0.0,0,10,56,0.0,56,0.0
+29,Chocolate Milk Shake,690,160,18,14.0,0.0,40,380,121,2.0,107,12.0
+30,Coca Cola Classic,190,0,0,0.0,0.0,0,0,51,0.0,51,0.0
+31,Diet Coke,0,0,0,0.0,0.0,0,20,0,0.0,0,0.0
+32,Dr. Pepper,190,0,0,0.0,0.0,0,45,51,0.0,51,0.0
+33,Fanta Orange,210,0,0,0.0,0.0,0,0,56,0.0,56,0.0
+34,Fat Free Milk,90,0,0,0.0,0.0,5,125,13,0.0,12,9.0
+35,Frozen Coke,110,0,0,0.0,0.0,0,10,31,0.0,31,0.0
+36,Frozen SURGE™ Large,120,0,0,0.0,0.0,0,10,32,0.0,29,0.0
+37,Frozen SURGE™ Medium,100,0,0,0.0,0.0,0,5,27,0.0,24,0.0
+38,Frozen SURGE™ Small,80,0,0,0.0,0.0,0,5,22,0.0,20,0.0
+39,Hi-C Fruit Punch,200,0,0,0.0,0.0,0,15,55,0.0,55,0.0
+40,Hot Chocolate,230,25,3,2.0,0.0,0,290,52,1.0,41,3.0
+41,Minute Maid Light Lemonade,10,0,0,0.0,0.0,0,0,1,0.0,0,0.0
+42,Minute Maid Orange Juice,140,0,0,0.0,0.0,0,20,33,0.0,30,2.0
+43,Peach Tea,100,0,0,0.0,0.0,0,0,23,0.0,23,0.0
+44,Sprite,190,0,0,0.0,0.0,0,40,51,0.0,51,0.0
+45,Strawberry Banana Smoothie,310,5,1,0.0,0.0,0,35,73,2.0,60,2.0
+46,Strawberry Milk Shake,610,150,17,13.0,0.0,40,390,102,1.0,91,12.0
+47,Sweet Tea,120,0,0,0.0,0.0,0,0,35,0.0,35,0.0
+48,Tropical Mango Smoothie,330,10,1,0.0,0.0,0,65,78,2.0,63,3.0
+49,Unsweetened Tea,0,0,0,0.0,0.0,0,0,0,0.0,0,0.0
+50,Vanilla Milk Shake,660,150,17,13.0,0.0,40,380,114,0.0,104,12.0
+51,Vault,210,0,0,0.0,0.0,0,20,56,0.0,56,0.0
+52,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,450,50,13.0,0.0,120,1960,32,5.0,7,36.0
+53,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,360,40,12.0,0.0,150,1540,18,3.0,6,42.0
+54,Chicken BLT Salad w/ Crispy Chicken,690,430,48,12.0,1.0,100,1750,31,4.0,8,35.0
+55,Chicken BLT Salad w/ Grilled Chicken,550,330,37,10.0,0.0,115,1640,17,3.0,5,36.0
+56,Chicken Caesar Salad w/ Crispy Chicken,670,380,43,7.0,0.0,80,1760,40,5.0,8,34.0
+57,Chicken Caesar Salad w/ Grilled Chicken,530,290,32,5.0,0.0,95,1640,26,3.0,6,35.0
+58,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,370,41,9.0,0.0,80,1090,54,5.0,37,28.0
+59,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,270,30,7.0,0.0,90,980,40,4.0,34,29.0
+60,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,220,24,7.0,0.0,85,1070,30,5.0,6,29.0
+61,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,120,14,6.0,0.0,115,650,16,2.0,4,36.0
+62,Side Caesar Salad with dressing,220,180,20,4.0,0.0,10,540,7,2.0,3,6.0
+63,Side Garden Salad and Avocado Ranch Dressing,230,190,21,5.0,0.0,30,520,7,2.0,3,5.0
+64,"Bacon, Egg & Cheese Biscuit",470,250,28,17.0,1.0,185,1420,33,1.0,4,17.0
+65,"BK Breakfast Muffin Sandwich w/ Bacon, Egg, and Cheese",250,100,11,5.0,0.0,165,760,22,1.0,2,14.0
+66,BK Breakfast Muffin Sandwich w/ Egg and Cheese,220,80,9,4.0,0.0,160,650,22,1.0,2,12.0
+67,"BK Breakfast Muffin Sandwich w/ Ham, Egg, and Cheese",250,80,9,4.0,0.0,175,1090,23,1.0,3,18.0
+68,BK Breakfast Muffin Sandwich w/ Sausage and Cheese,330,180,20,7.0,0.0,45,750,23,1.0,1,14.0
+69,"BK Breakfast Muffin Sandwich w/ Sausage, Egg, and Cheese",390,210,23,9.0,0.0,195,960,23,1.0,2,20.0
+70,Bk Ultimate Breakfast Platter,1450,750,84,30.0,1.0,505,2920,134,5.0,41,40.0
+71,Cinnabon Roll,300,100,11,5.0,0.0,5,280,45,2.0,20,6.0
+72,Country Ham and Egg Biscuit,420,210,23,15.0,0.5,185,1990,32,1.0,3,18.0
+73,"CROISSAN'WICH Bacon, Egg & Cheese",380,190,22,8.0,0.0,190,890,26,0.0,5,15.0
+74,CROISSAN'WICH Egg & Cheese,320,140,16,7.0,0.0,180,680,26,0.0,5,11.0
+75,"CROISSAN'WICH Ham, Egg & Cheese",350,150,17,7.0,0.0,200,1110,27,0.0,5,18.0
+76,CROISSAN'WICH Sausage & Cheese,380,220,24,10.0,0.0,50,780,26,0.0,3,14.0
+77,"CROISSAN'WICH Sausage, Egg & Cheese",490,280,31,11.0,1.0,215,990,27,0.0,5,18.0
+78,"DOUBLE CROISSAN'WICH w/ Bacon, Egg, & Cheese",490,280,31,13.0,1.0,215,1330,27,0.0,5,22.0
+79,"DOUBLE CROISSAN'WICH w/ Ham, Bacon, Egg, & Cheese",470,240,26,11.0,1.0,220,1540,27,0.0,6,24.0
+80,"DOUBLE CROISSAN'WICH w/ Ham, Egg, & Cheese",390,170,19,9.0,0.0,185,1670,27,1.0,6,26.0
+81,"DOUBLE CROISSAN'WICH w/ Ham, Sausage, Egg, & Cheese",570,320,35,14.0,1.0,240,1630,28,0.0,6,28.0
+82,"DOUBLE CROISSAN'WICH w/ Sausage, Bacon, Egg, & Cheese",570,340,37,15.0,1.0,235,1350,28,0.0,5,24.0
+83,"DOUBLE CROISSAN'WICH w/ Sausage, Egg, & Cheese",700,440,49,18.0,1.0,255,1510,29,0.0,5,29.0
+84,Egg-normous Burrito,910,490,55,16.0,0.5,320,2020,73,6.0,8,33.0
+85,French Toast Sticks 3 Piece,230,100,11,2.0,0.0,0,260,29,1.0,8,3.0
+86,French Toast Sticks 5 Piece,380,160,18,3.0,0.0,0,430,49,2.0,13,5.0
+87,Fully Loaded CROISSAN'WICH®,570,330,37,15.0,0.5,195,1650,32,1.0,5,27.0
+88,"Ham, Egg, & Cheese Biscuit",420,200,22,15.0,1.0,185,1410,33,1.0,5,16.0
+89,Hash Browns Large,670,390,44,9.0,0.0,0,1080,65,9.0,0,5.0
+90,Hash Browns Medium,500,290,33,7.0,0.0,0,810,48,7.0,0,4.0
+91,Hash Browns Small,250,150,16,4.0,0.0,0,410,24,3.0,0,2.0
+92,Kids Oatmeal,170,35,4,2.0,0.0,5,260,32,3.0,9,4.0
+93,King CROISSAN'WICH®,700,460,51,20.0,0.5,210,1410,31,1.0,5,25.0
+94,King CROISSAN'WICH® w/ Ham & Sausage,530,310,34,14.0,0.5,185,1280,31,1.0,5,23.0
+95,King CROISSAN'WICH® w/ Sausage and Bacon,570,340,38,16.0,0.5,185,1330,31,1.0,5,23.0
+96,Otis Spunkmeyer® Cinnamon Roll,280,100,11,6.0,0.0,15,280,41,2.0,22,4.0
+97,Pancake Platter w/ Sausage & 1 oz Breakfast Syrup,670,300,34,9.0,0.0,125,1010,78,1.0,36,14.0
+98,Pancakes (3) and 1 oz breakfast syrup,500,170,19,5.0,0.0,95,700,77,1.0,36,7.0
+99,Quaker Oatmeal Maple and Brown Sugar Flavor,270,40,4,2.0,0.0,5,290,55,5.0,29,5.0
+100,Quaker Oatmeal Original,140,30,4,1.0,0.0,5,100,23,3.0,1,5.0
+101,Sausage Biscuit,420,240,27,15.0,1.0,35,1090,32,1.0,3,13.0
+102,Sausage Breakfast Burrito,290,150,17,7.0,0.0,140,830,21,1.0,2,14.0
+103,"Sausage, Egg, & Cheese Biscuit",570,330,37,19.0,1.0,210,1510,34,1.0,4,20.0
+104,Southwestern Breakfast Burrito,580,320,35,13.0,0.0,205,1690,42,4.0,3,23.0
+105,Bacon Cheddar Ranch Crispy Chicken Sandwich,830,468,52,14.0,0.5,110,2100,57,,9,34.0
+106,BBQ Bacon Crispy Chicken Sandwich,440,243,27,4.5,0.0,15,630,44,,13,7.0
+107,Big Fish Sandwich,530,250,27,4.5,0.0,30,1360,54,2.0,7,17.0
+108,BK VEGGIE Burger,410,150,16,3.0,0.0,5,1030,44,7.0,8,22.0
+109,Chicken Burger,480,220,25,2.5,0.0,5,1160,42,2.0,10,22.0
+110,Chicken Cordon Bleu Sandwich,730,351,39,9.0,0.0,90,1930,63,,16,32.0
+111,Chicken Fries,290,150,17,3.0,1.5,40,780,18,1.0,1,16.0
+112,Chicken Nuggets 20 Piece,950,500,55,11.0,0.0,130,1530,50,5.0,0,51.0
+113,Chicken Nuggets 4 Piece,190,100,11,2.0,0.0,25,310,10,1.0,0,10.0
+114,Chicken Nuggets 6 Piece,290,150,17,3.0,0.0,40,460,15,1.0,0,15.0
+115,Chicken Nuggets (10pc),470,260,29,5.0,0.0,50,890,34,5.0,0,21.0
+116,Chicken Parmesan Sandwich,570,225,25,8.0,0.0,70,1340,57,,9,32.0
+117,Crispy Buffalo Chicken Melt,580,252,28,8.0,0.5,70,2310,56,,8,30.0
+118,Crispy Chicken Jr.,430,250,28,4.5,0.0,30,760,34,2.0,4,12.0
+119,Crispy Chicken Sandwich,670,370,41,7.0,0.5,60,1070,54,2.0,7,23.0
+120,Grilled Chicken Sandwich,470,170,19,3.5,0.0,85,850,39,2.0,6,37.0
+121,Grilled Chili Cheese Dog,330,170,19,8.0,1.0,40,980,28,2.0,5,14.0
+122,Grilled Hot Dog,310,140,16,6.0,1.0,30,960,32,2.0,10,11.0
+123,Jalapeno Chicken Fries,300,160,18,3.0,0.0,40,950,19,1.0,1,15.0
+124,Original Chicken Sandwich,630,350,39,7.0,1.0,65,1390,46,3.0,4,24.0
+125,Rodeo Crispy Chicken Sandwich,410,150,17,3.0,0.0,20,870,53,2.0,14,12.0
+126,Spicy Chicken Nuggets 10 Piece,530,333,37,7.0,0.0,55,1420,28,,0,20.0
+127,Spicy Crispy Chicken Jr.,410,220,25,4.5,0.0,35,850,35,2.0,5,12.0
+128,BK Caramel Frappe,510,200,22,12.0,0.0,5,300,72,0.0,49,4.0
+129,BK Mocha Frappe,510,200,22,12.0,0.0,5,300,72,0.0,49,4.0
+130,Iced Coffee Caramel,170,70,7,4.5,0.0,15,50,23,0.0,23,0.0
+131,Iced Coffee Regular,160,70,7,4.5,0.0,15,45,19,0.0,19,0.0
+132,Iced Coffee Vanilla,180,70,7,4.5,0.0,15,45,24,0.0,24,0.0
+133,Latte Caramel,320,50,6,6.0,0.0,0,250,66,0.0,48,3.0
+134,Latte Mocha,210,35,4,4.0,0.0,0,170,42,0.0,28,2.0
+135,Latte Regular,180,50,6,6.0,0.0,0,250,31,0.0,12,3.0
+136,Latte Vanilla,320,50,6,6.0,0.0,0,250,67,0.0,47,3.0
+137,Nonfat Latte Caramel,300,0,0,0.0,0.0,0,220,66,0.0,51,6.0
+138,Nonfat Latte Mocha,160,0,0,0.0,0.0,0,170,41,0.0,29,3.0
+139,Nonfat Latte Regular,150,0,0,0.0,0.0,0,220,31,0.0,15,6.0
+140,Nonfat Latte Vanilla,300,0,0,0.0,0.0,0,220,67,0.0,50,6.0
+141,Seattle's Best Coffee® - Decaf,0,0,0,0.0,0.0,0,0,0,0.0,0,0.0
+142,Seattle's Best Coffee® - Regular,0,0,0,0.0,0.0,0,0,0,0.0,0,0.0
+143,Blue Raspberry ICEE,120,0,0,0.0,0.0,0,10,32,0.0,23,0.0
+144,Butter Sugar Cookie,160,60,7,3.5,0.0,15,135,22,0.0,12,2.0
+145,Caramel Ice Cream Sundae,280,60,6,4.0,0.0,20,250,52,0.0,37,5.0
+146,Carnival Cookie,160,60,7,3.0,0.0,10,120,22,1.0,14,2.0
+147,Chocolate Chip Cookies (2),330,140,15,8.0,0.0,20,250,47,1.0,29,3.0
+148,Chocolate Fudge Ice Cream Sundae,280,60,7,5.0,0.0,15,220,50,1.0,43,6.0
+149,Cinnamon Toast Crunch Shake,780,171,19,11.0,0.5,65,570,137,,113,16.0
+150,Dr Pepper® Shake Large,560,140,16,10.0,0.0,65,450,90,0.0,77,14.0
+151,Dr Pepper® Shake Medium,450,120,13,8.0,0.0,50,360,73,0.0,62,11.0
+152,Dr Pepper® Shake Small,330,90,10,7.0,0.0,40,250,52,0.0,44,8.0
+153,Dutch Apple Pie,320,130,14,6.0,0.0,0,300,46,1.0,23,2.0
+154,Froot Loops Shake,720,153,17,11.0,0.5,65,560,126,,103,16.0
+155,Ginger Spice Cookie,150,45,5,2.5,0.0,10,135,25,1.0,13,2.0
+156,HERSHEY'S Ice Cream Sundae Pie,300,160,18,12.0,0.0,10,210,31,1.0,22,3.0
+157,Irish Mint Oreo® Shake Large,770,190,21,12.0,0.0,65,570,132,1.0,109,15.0
+158,Irish Mint Oreo® Shake Medium,610,150,17,10.0,0.0,50,450,103,1.0,85,12.0
+159,Irish Mint Oreo® Shake Small,430,110,13,7.0,0.0,40,310,72,0.0,60,9.0
+160,Lucky Charms Shake,740,153,17,11.0,0.5,65,580,129,,107,17.0
+161,Oatmeal Raisin Cookies (2),310,120,13,8.0,0.0,20,260,46,3.0,26,4.0
+162,Oreo Shake,570,160,18,12.0,0.5,30,350,93,1.0,76,9.0
+163,Red Velvet Oreo® Shake Large,800,190,21,12.0,0.0,65,670,138,1.0,116,15.0
+164,Red Velvet Oreo® Shake Medium,630,150,17,10.0,0.0,50,520,108,1.0,90,12.0
+165,Red Velvet Oreo® Shake Small,450,110,13,7.0,0.0,40,360,75,1.0,63,9.0
+166,"Red, White & Blue Cookie",160,50,6,3.0,0.0,5,125,23,0.0,14,1.0
+167,Reese's Peanut Butter Cup Pie,310,170,19,10.0,0.0,5,200,31,2.0,21,5.0
+168,Snickers Pie,300,140,16,9.0,0.0,5,230,36,1.0,25,4.0
+169,Soft Serve Ice Cream Cone,160,35,4,3.0,0.0,15,130,27,0.0,20,4.0
+170,Soft Serve Ice Cream Cup,140,35,4,3.0,0.0,15,125,23,0.0,19,4.0
+171,Strawberry Ice Cream Sundae,190,35,4,3.0,0.0,15,125,35,0.0,31,4.0
+172,White Chocolate Macadamia Nut Cookies (2),340,160,18,8.0,0.0,20,240,44,0.0,28,4.0
+173,American Cheese (slice),45,35,4,3.0,0.0,10,220,1,0.0,0,2.0
+174,Barbecue Dipping Sauce (1 oz),40,0,0,0.0,0.0,0,310,11,0.0,10,0.0
+175,Breakfast Syrup (1 oz),120,0,0,0.0,0.0,0,15,30,0.0,18,0.0
+176,Buffalo Dipping Sauce (1 oz),80,70,8,2.0,0.0,5,360,2,0.0,1,0.0
+177,Dried Fruit Topping,90,5,0,0.0,0.0,0,0,23,2.0,20,1.0
+178,Garlic Parmesan Croutons,60,20,2,0.0,0.0,0,120,9,0.0,1,1.0
+179,Honey Mustard Dipping Sauce (1 oz),90,60,6,1.0,0.0,10,180,8,0.0,7,0.0
+180,Ken's Apple Cider Vinaigrette,210,160,18,2.5,0.0,10,115,10,0.0,7,0.0
+181,Ken's Avocado Ranch Dressing,170,150,17,3.0,0.0,15,420,4,0.0,3,1.0
+182,Ken's Citrus Caesar Dressing,180,160,18,3.5,0.0,5,460,4,0.0,2,2.0
+183,KEN'S Honey Mustard Dressing (2 oz),270,200,23,3.0,0.0,20,510,15,0.0,14,1.0
+184,Ken's Lite Honey Balsamic,120,70,7,1.0,0.0,0,220,14,0.0,11,0.0
+185,Ketchup,10,0,0,0.0,0.0,0,125,3,0.0,2,0.0
+186,Mayonnaise,80,80,9,1.0,0.0,10,75,1,0.0,0,0.0
+187,Pickles (2),0,0,0,0.0,0.0,0,100,0,0.0,0,0.0
+188,Ranch Dipping Sauce (1 oz),140,130,15,3.0,0.0,5,230,1,0.0,1,1.0
+189,Strawberry or Grape Jam (packet),30,0,0,0.0,0.0,0,0,7,0.0,6,0.0
+190,SunGlow Butter blend - 2 pats,70,70,8,3.0,0.0,0,65,0,0.0,0,0.0
+191,Thick cut bacon,70,50,6,2.0,0.0,10,220,0,0.0,0,4.0
+192,Zesty Onion Ring Dipping Sauce (1 oz),150,140,15,3.0,0.0,15,210,3,1.0,2,0.0
+193,BK Fresh Apple Slices,25,0,0,0.0,0.0,0,0,6,1.0,5,0.0
+194,Cheesy Tots,310,140,15,1.0,0.0,0,780,34,3.0,0,9.0
+195,Flamin' Hot Mac n' Cheetos,390,198,22,4.5,0.0,15,1170,40,,3,9.0
+196,French Fries Large,500,200,22,4.0,0.0,0,710,72,5.0,0,5.0
+197,French Fries Medium,410,160,18,3.0,0.0,0,570,58,4.0,0,4.0
+198,French Fries Small,340,130,15,3.0,0.0,0,480,49,4.0,0,4.0
+199,French Fries Value,240,90,10,2.0,0.0,0,330,34,3.0,0,2.0
+200,Mac 'n Cheetos,310,120,13,4.5,0.0,15,710,37,2.0,9,9.0
+201,Motts' Harvest Plus Applesauce,50,0,0,0.0,0.0,0,0,13,1.0,11,0.0
+202,Mozzarella Sticks (4 pc),280,140,15,5.0,0.0,35,650,24,2.0,2,11.0
+203,Onion Rings Large,500,230,25,5.0,0.0,0,1310,64,5.0,7,5.0
+204,Onion Rings Medium,410,190,21,4.0,0.0,0,1080,53,4.0,5,4.0
+205,Onion Rings Small,320,150,16,3.0,0.0,0,840,41,3.0,4,3.0
+206,Onion Rings Value,150,70,8,2.0,0.0,0,400,19,1.0,2,1.0
+207,Satisfries French Fries Large,410,150,17,2.5,0.0,0,460,62,5.0,0,5.0
+208,Satisfries French Fries Medium,340,120,14,2.0,0.0,0,370,51,4.0,0,4.0
+209,Satisfries French Fries Small,270,100,11,1.5,0.0,0,300,41,3.0,0,4.0
+210,Satisfries French Fries Value,190,70,8,1.0,0.0,0,210,28,2.0,0,2.0

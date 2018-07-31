@@ -1,0 +1,170 @@
+,item,calories,calories_from_fat,total_fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fiber,sugars,protein
+0,Asiago Ranch Club w/ Homestyle Chicken,690,324,36,12.0,0.0,95,1630,56,4,9,35
+1,Asiago Ranch Club w/SpicyChicken,710,333,37,12.0,0.0,110,1630,57,3,9,40
+2,Asiago Ranch Club w/Ultimate Chicken Grill,570,243,27,10.0,0.0,125,1530,41,3,9,42
+3,Bacon Queso Burger,550,290,32,14.0,1.5,110,1140,36,2,7,33
+4,Bacon Queso Chicken Sandwich,590,250,27,9.0,0.0,105,1600,53,2,7,37
+5,Baconator Single,660,360,40,17.0,2.0,120,1440,40,2,9,36
+6,"Cheeseburger, Kids' Meal",290,117,13,6.0,1.0,45,750,25,1,5,17
+7,Chicken Go Wrap w/ Grilled Chicken,260,90,10,4.0,0.0,50,730,25,1,3,19
+8,Chicken Go Wrap w/ Homestyle Chicken,320,144,16,5.0,0.0,35,770,30,1,1,15
+9,Chicken Go Wrap w/ Spicy Chicken,340,144,16,5.0,0.0,45,770,31,1,1,17
+10,Crispy Chicken BLT,440,220,24,7.0,0.0,55,950,37,1,5,20
+11,Crispy Chicken Sandwich,380,180,20,4.0,0.0,35,720,37,2,4,15
+12,Dave's Double Cheeseburger,800,432,48,21.0,3.0,175,1530,42,3,10,50
+13,Dave's Single Cheeseburger,580,297,33,14.0,2.0,105,1240,42,3,10,31
+14,Dave's Triple Cheeseburger,1060,603,67,30.0,4.0,255,2020,42,3,10,72
+15,Double Stack,400,189,21,9.0,2.0,85,1080,26,1,5,27
+16,Fresh Mozzarella Chicken Sandwich,420,120,14,6.0,0.0,120,910,34,2,6,41
+17,Giant Junior Bacon Cheeseburger (JBC),570,340,38,15.0,1.5,125,1290,26,1,6,33
+18,Grilled Chicken Sandwich,360,80,8,1.5,0.0,90,820,38,3,11,35
+19,"Hamburger, Kids' Meal",250,90,10,4.0,1.0,35,540,25,1,5,15
+20,Homestyle Chicken Fillet Sandwich,510,189,21,6.0,0.0,60,1140,54,4,8,26
+21,Jalapeno Fresco Spicy Chicken Sandwich,590,260,29,9.0,0.5,100,1370,51,2,6,34
+22,Jr. Bacon Cheeseburger (JBC),380,200,22,8.0,1.0,65,850,26,1,5,19
+23,Jr. Cheeseburger,290,117,13,6.0,1.0,45,820,26,1,5,17
+24,Jr. Cheeseburger Deluxe,350,171,19,7.0,1.0,55,850,27,2,6,17
+25,Jr. Hamburger,250,90,10,4.0,1.0,35,620,25,1,5,15
+26,Kids Grilled Chicken Wrap,260,90,10,3.5,0.0,55,740,25,1,3,19
+27,Premium Cod Sandwich,480,207,23,4.0,0.0,40,970,51,3,6,18
+28,Smoky Mushroom Bacon Cheeseburger,760,441,49,15.0,1.5,110,1310,46,4,6,36
+29,Son of Baconator,700,387,43,18.0,1.5,130,1760,40,2,9,39
+30,Spicy Chicken Fillet Sandwich,530,198,22,6.0,0.0,75,1140,55,3,8,31
+31,Spicy Sriracha Chicken Sandwich,670,310,35,11.0,0.5,110,1690,51,2,6,39
+32,Ultimate Chicken Grill Sandwich,390,90,10,4.0,0.0,90,1080,42,3,10,33
+33,"All Natural Lemonade, Small Cup",190,0,0,0.0,0.0,0,5,49,0,46,0
+34,"Barq's Root Beer, Small Cup",180,0,0,0.0,0.0,0,40,50,0,50,0
+35,Brewed Sweetened Iced Tea,110,0,0,0.0,0.0,0,10,29,0,28,0
+36,Brewed Unsweetened Iced Tea,5,0,0,0.0,0.0,0,10,1,0,0,0
+37,"Coca-Cola, Small Cup",200,0,0,0.0,0.0,0,45,54,0,54,0
+38,"Coke Zero™, Small Cup",0,0,0,0.0,0.0,0,5,0,0,0,0
+39,"Diet Coke, Small Cup",0,0,0,0.0,0.0,0,15,0,0,0,0
+40,"Dr Pepper, Small Cup",160,0,0,0.0,0.0,0,40,43,0,43,0
+41,"Fanta Orange, Small Cup",180,0,0,0.0,0.0,0,25,49,0,49,0
+42,"Hi-C Flashin' Fruit Punch, Small Cup",170,0,0,0.0,0.0,0,15,46,0,46,0
+43,Honest Tropical Green Tea Large,110,0,0,0.0,0.0,0,55,29,0,29,0
+44,Honest Tropical Green Tea Medium,120,0,0,0.0,0.0,0,10,30,0,30,0
+45,Honest Tropical Green Tea Small,60,0,0,0.0,0.0,0,5,14,0,14,0
+46,Honest Tropical Green Tea Value,60,0,0,0.0,0.0,0,5,14,0,14,0
+47,Juicy Juice Apple Juice,90,0,0,0.0,0.0,0,5,22,0,20,0
+48,Mango Peach FruitTea Chiller Large,280,0,0,0.0,0.0,0,60,72,0,70,0
+49,Mango Peach FruitTea Chiller Medium,250,0,0,0.0,0.0,0,45,64,0,62,0
+50,Mango Peach FruitTea Chiller Small,150,0,0,0.0,0.0,0,30,37,0,36,0
+51,"Minute Maid Light Lemonade, Small Cup",5,0,0,0.0,0.0,0,5,1,0,0,0
+52,Nestlé Pure Life Bottled Water,0,0,0,0.0,0.0,0,0,0,0,0,0
+53,"Pibb Xtra, Small Cup",160,0,0,0.0,0.0,0,25,43,0,43,0
+54,"Sprite, Small Cup",160,0,0,0.0,0.0,0,35,43,0,43,0
+55,Strawberry Iced Tea,50,0,0,0.0,0.0,0,10,13,0,12,0
+56,Strawberry Lemonade,200,0,0,0.0,0.0,0,0,51,0,48,0
+57,Strawberry Passion FruiTea Chiller Large,290,0,0,0.0,0.0,0,60,73,0,69,0
+58,Strawberry Passion FruiTea Chiller Medium,250,0,0,0.0,0.0,0,45,65,0,61,0
+59,Strawberry Passion FruiTea Chiller Small,150,0,0,0.0,0.0,0,30,38,0,36,0
+60,TruMoo Lowfat Chocolate Milk,140,27,3,2.0,0.0,10,170,22,0,20,7
+61,TruMoo Lowfat White Milk,100,27,3,2.0,0.0,10,125,12,0,11,8
+62,Artisan Egg Sandwich with All-Natural Sausage,500,297,33,13.0,0.5,275,860,31,1,4,22
+63,Artisan Egg Sandwich with Applewood Smoked Bacon,360,162,18,8.0,0.0,255,780,30,1,4,19
+64,Artisan Sandwich with Egg & Cheese,290,117,13,6.0,0.0,235,530,29,1,4,15
+65,Fresh-Baked Biscuit with All-Natural Sausage,570,333,37,18.0,0.0,270,1390,38,2,5,21
+66,Fresh-Baked Biscuit with Applewood Smoked Bacon,410,189,21,12.0,0.0,240,1220,36,2,4,17
+67,Fresh-Baked Biscuit with Egg & Cheese,360,162,18,11.0,0.0,230,1060,36,2,4,14
+68,Honey Butter Chicken Biscuit,510,225,25,11.0,0.0,55,1400,52,2,9,21
+69,Mornin' Melt Panini with All-Natural Sausage,650,423,47,22.0,1.0,310,900,34,1,3,32
+70,Mornin' Melt Panini with Egg & Cheese,450,243,27,15.0,1.0,270,560,33,1,3,25
+71,Mornin' Melt® Panini with Applewood Smoked Bacon,520,288,32,17.0,1.0,285,810,33,1,3,30
+72,"Orange Juice, Small",130,0,0,0.0,0.0,0,0,31,1,23,2
+73,Sausage & Egg Burrito,270,180,20,7.0,0.0,210,640,12,1,1,12
+74,Sausage Biscuit,460,261,29,14.0,0.0,50,1110,37,2,4,13
+75,Sausage Gravy & Biscuit,460,216,24,12.0,0.0,20,1530,51,2,5,9
+76,Seasoned Homestyle Potatoes,230,81,9,2.0,0.0,0,700,34,3,0,2
+77,Steel-Cut Oatmeal with Apples and Caramel,200,18,2,0.0,0.0,0,200,47,3,26,4
+78,Steel-Cut Oatmeal with Cranberries and Pecans,330,108,12,1.0,0.0,0,250,57,4,33,5
+79,Steel-Cut Oatmeal with Summer Berries,180,18,2,0.0,0.0,0,190,40,3,20,4
+80,"Steel-Cut Oatmeal, Plain",150,27,3,0.0,0.0,0,230,33,3,10,5
+81,"Caramel Iced Coffee, Small",80,45,5,3.0,0.0,20,45,9,0,8,1
+82,"English Breakfast Premium Hot Tea, Small",0,0,0,0.0,0.0,0,0,0,0,0,0
+83,"Lemongrass Green Premium Hot Tea, Small",0,0,0,0.0,0.0,0,0,0,0,0,0
+84,"Mocha Iced Coffee, Small",100,45,5,3.0,0.0,20,45,12,0,11,1
+85,"Original Redhead Hot Coffee, Decaffeinated, Small",10,0,0,0.0,0.0,0,0,2,0,0,0
+86,"Original Redhead Hot Coffee, Small",10,0,0,0.0,0.0,0,0,3,0,0,0
+87,"Redhead Roasters®Hot Coffee, Regular",0,0,0,0.0,0.0,0,0,0,0,0,0
+88,"Skinny Vanilla Iced Coffee, Small",60,45,5,3.0,0.0,20,45,7,0,2,1
+89,"Vanilla Iced Coffee, Small",90,45,5,3.0,0.0,20,45,11,0,10,1
+90,Barbecue Nugget Sauce,45,0,0,0.0,0.0,0,120,11,0,4,0
+91,Brown Sugar,40,0,0,0.0,0.0,0,0,9,0,9,0
+92,Buttery Best Spread,50,54,6,1.0,0.0,0,95,0,0,0,0
+93,"Cheddar Cheese, Shredded",70,54,6,3.5,0.0,15,110,1,0,0,4
+94,Heartland Ranch Dipping Sauce,120,108,12,2.0,0.0,10,240,3,0,2,0
+95,Honey Mustard Nugget Sauce,80,54,6,1.0,0.0,10,220,7,0,3,0
+96,Hot Chili Seasoning Packet,5,0,0,0.0,0.0,0,280,1,0,1,0
+97,Hot Sauce,10,0,0,0.0,0.0,0,135,2,0,1,0
+98,Saltine Crackers,25,9,1,0.0,0.0,0,80,5,0,0,1
+99,Smoky BBQ Side Sauce,40,0,0,0.0,0.0,0,310,10,0,9,0
+100,Spicy BBQ Side Sauce,60,0,0,0.0,0.0,0,280,16,0,15,0
+101,Sweet & Sour Nugget Sauce,50,0,0,0.0,0.0,0,120,12,0,11,0
+102,Sweet BBQ Side Sauce,60,0,0,0.0,0.0,0,170,15,0,13,0
+103,Chicken Nuggets 10 Piece,450,270,30,7.0,0.0,75,870,24,2,0,23
+104,Chicken Nuggets 4 Piece,180,117,13,2.5,0.0,30,390,10,1,0,10
+105,Chicken Nuggets 6 Piece,270,162,18,4.0,0.0,45,520,14,1,0,14
+106,Chicken Nuggets Kids' Meal,180,99,11,3.0,0.0,25,370,11,1,1,8
+107,Chicken Tenders 3 Piece,300,130,14,2.5,0.0,70,920,20,0,0,22
+108,Chicken Tenders 4 Piece,400,170,19,3.0,0.0,90,1230,26,0,1,29
+109,Spicy Chicken Nuggets 10 Piece,430,252,28,6.0,0.0,80,1240,23,2,0,25
+110,Spicy Chicken Nuggets 4 Piece,190,108,12,2.5,0.0,30,550,10,1,0,9
+111,Spicy Chicken Nuggets 6 Piece,280,162,18,4.0,0.0,45,830,15,2,0,14
+112,Chocolate Chunk Cookie,390,189,21,11.0,0.0,25,270,51,2,30,4
+113,Double Chocolate Chip Cookie,350,153,17,9.0,0.0,25,260,48,5,28,4
+114,Espresso Chip Bar,290,99,11,5.0,0.0,20,200,43,6,20,5
+115,Oatmeal Bar,290,90,10,4.5,0.0,20,230,47,5,23,4
+116,Sugar Cookie,390,171,19,9.0,0.0,30,360,53,1,28,4
+117,"Chocolate Frosty, Small",300,72,8,5.0,0.0,30,140,49,0,42,7
+118,"Vanilla Frosty, Small",280,63,7,5.0,0.0,30,135,47,0,40,7
+119,Apple Balsamic Vinaigrette,80,45,5,1.0,0.0,0,240,7,0,7,0
+120,BBQ Ranch Dressing,100,63,7,1.0,0.0,5,260,8,0,6,1
+121,Classic Ranch,100,90,10,2.0,0.0,10,150,2,0,1,1
+122,Gourmet Croutons,80,27,3,0.0,0.0,0,220,12,0,0,2
+123,Honey Roasted Sunflower Seeds,45,36,4,0.0,0.0,0,0,3,0,2,1
+124,Italian Vinaigrette,70,54,6,1.0,0.0,0,180,4,0,3,0
+125,Lemon Garlic Caesar Dressing,110,99,11,2.0,0.0,10,180,2,0,1,2
+126,Light Classic Ranch,50,45,5,1.0,0.0,10,150,2,0,1,1
+127,Light Honey French Dressing,40,0,0,0.0,0.0,0,95,9,0,8,0
+128,Light Spicy Asian Chili Vinaigrette,45,18,2,0.0,0.0,0,190,7,0,6,0
+129,Pomegranate Vinaigrette Dressing,60,27,3,0.0,0.0,0,160,8,0,7,0
+130,Roasted Pecans,110,81,9,1.0,0.0,0,60,5,1,4,1
+131,Spicy Roasted Cashews,80,54,6,1.0,0.0,0,65,4,0,1,2
+132,Thousand Island,160,135,15,3.0,0.0,15,290,5,0,4,0
+133,Apple Pecan Chicken Salad Full,340,99,11,7.0,0.0,105,1150,28,5,20,35
+134,Apple Pecan Chicken Salad Half,180,54,6,3.5,0.0,55,490,14,3,9,18
+135,Asian Cashew Chicken Salad Half,110,18,2,0.0,0.0,45,260,8,3,3,17
+136,Asian Cashew Chicken Salad Whole,210,36,4,0.0,0.0,90,520,13,5,5,33
+137,BBQ Ranch Chicken Salad Half,210,72,8,3.5,0.0,60,510,17,3,9,20
+138,BBQ Ranch Chicken Salad Whole,390,135,15,7.0,0.0,125,940,28,4,12,40
+139,Mozzarella Chicken Salad Full,520,220,24,8.0,0.5,125,1130,36,5,16,41
+140,Mozzarella Chicken Salad Half,360,160,18,6.0,0.0,70,750,26,3,9,24
+141,Power Mediterranean Chicken Salad Half,230,70,8,2.0,0.0,55,630,21,5,10,20
+142,Power Mediterranean Chicken Salad Whole,430,130,14,4.0,0.0,115,1220,38,8,18,39
+143,Spicy Chicken Caesar Salad Half,250,126,14,6.0,0.0,45,520,14,4,2,18
+144,Spicy Chicken Caesar Salad Whole,470,225,25,12.0,1.0,90,1240,26,5,3,37
+145,Strawberry Mango Chicken Salad Full,470,170,19,6.0,0.0,105,1140,38,5,31,39
+146,Strawberry Mango Chicken Salad Half,270,110,12,3.0,0.0,50,580,23,3,18,21
+147,Summer Berry Chicken Salad Full,380,80,9,3.5,0.0,100,980,41,6,30,35
+148,Summer Berry Chicken Salad Half,210,50,6,2.0,0.0,50,500,24,4,17,18
+149,Taco Salad Full Size,660,290,32,13.0,1.0,85,1820,63,10,18,32
+150,Taco Salad Half Size,470,210,23,8.0,0.5,45,1320,49,7,12,19
+151,Apple Slices,40,0,0,0.0,0.0,0,0,9,2,7,0
+152,Bacon & Cheese Baked Potato,540,207,23,11.0,0.5,65,890,66,7,5,22
+153,Bacon Queso Fries,510,270,30,10.0,0.5,45,630,47,4,2,15
+154,Bacon Sriracha Fries,600,350,39,11.0,0.5,45,1110,47,4,3,14
+155,Broccoli & Cheese Baked Potato,440,126,14,8.0,0.5,40,510,67,8,6,16
+156,Caesar Side Salad,60,36,4,3.0,0.0,10,115,5,2,2,4
+157,Chili Large,310,81,9,4.0,1.0,60,1330,31,10,10,26
+158,Chili Small,210,54,6,3.0,0.0,40,880,21,6,6,17
+159,Garden Side Salad,25,0,0,0.0,0.0,0,30,5,2,3,1
+160,Ghost Pepper Fries,520,290,33,9.0,0.5,30,840,47,4,2,9
+161,Ketchup Packet,10,0,0,0.0,0.0,0,95,3,0,2,0
+162,Natural-Cut Fries Large,530,225,25,5.0,0.0,0,570,68,7,0,6
+163,Natural-Cut Fries Medium,420,189,21,4.0,0.0,0,460,55,6,0,5
+164,Natural-Cut Fries Small,320,130,15,2.5,0.0,0,320,43,4,0,5
+165,Natural-Cut Fries Value,230,99,11,3.0,0.0,0,250,30,3,0,3
+166,Plain Baked Potato,270,0,0,0.0,0.0,0,25,61,7,3,7
+167,Smoky Mushroom Bacon Potato,460,135,15,5.0,0.0,25,640,66,7,5,16
+168,Sour Cream & Chives Baked Potato,320,36,4,2.0,0.0,10,50,63,7,4,8
